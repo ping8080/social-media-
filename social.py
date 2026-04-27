@@ -29,11 +29,11 @@ from telegram.constants import ParseMode
 from telegram.ext import Application, CommandHandler, CallbackContext 
 
 # --- CONFIGURATION ---
-YOUR_TELEGRAM_BOT_TOKEN = "8368295908:AAG6PB3c_f9zkGwG7ayfmqF8fdPEqh9bMto"
+YOUR_TELEGRAM_BOT_TOKEN = "8634092409:AAFS_ajEXKWBorf_Scza1yF_M2-rFurVPJE"
 YOUR_API_BASE_URL = "https://socialdown.itz-ashlynn.workers.dev" 
 COMMAND_COOLDOWN = 7  # 7 seconds
-ADMIN_IDS = [7554007124]  # Add admin Telegram user IDs here, e.g., [123456789, 987654321]
-OWNER_USERNAME = "@Uuyffcbhhbot"
+ADMIN_IDS = [7531518197]  # Add admin Telegram user IDs here, e.g., [123456789, 987654321]
+OWNER_USERNAME = "@TelenonytdlpBot"
 # --- END CONFIGURATION ---
 
 # Set up logging
